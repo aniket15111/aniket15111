@@ -12,7 +12,6 @@
 
 <p align="left"> <a href="https://twitter.com/aniketk16597033" target="blank"><img src="https://img.shields.io/twitter/follow/aniketk16597033?logo=twitter&style=for-the-badge" alt="aniketk16597033" /></a> </p>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
